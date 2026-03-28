@@ -6,7 +6,9 @@ icon: swords
 
 <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-Conquest is a social, team based pvp game mode.
+Conquest is a social, team based pvp game mode.\
+\
+Conquest's map, event structure, and game mechanics can change from one Conquest to the next
 
 ### Objective
 
