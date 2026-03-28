@@ -77,7 +77,7 @@ There are two leaderboards each giving their own medals:
 
 The Traveling Merchant Munis is a vendor in Gigaverse, providing exclusive deals for various items in exchange for Gigus Dust and Shards.
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Hint: Some items are exclusive and available only for a limited time, while others are typically various resources from different areas of the game.

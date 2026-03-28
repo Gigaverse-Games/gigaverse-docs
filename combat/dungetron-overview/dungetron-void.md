@@ -5,11 +5,13 @@ icon: sparkles
 
 # Dungetron: Void
 
-Special high risk high reward non chacter progressionn type dungeon
+![](../../.gitbook/assets/image.png)\
+\
+Special high risk high reward non-character progression type dungeon
 
 ### Combat Mechanic
 
-Combat works in the same way as any other dungeon.&#x20;
+
 
 ### Unique Mechanic
 

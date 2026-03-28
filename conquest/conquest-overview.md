@@ -4,7 +4,7 @@ icon: swords
 
 # Conquest Overview
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
 Conquest is a social, team based pvp game mode.\
 \
@@ -46,7 +46,7 @@ Crowns are conquest rewards based on both individual contribution within a facti
 * Crown Leaderboard shows both global rank & faction rank (similar to abstract stubs leaderboard system)
 * Ranks can be seen in real-time (immediate past round)
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption><p>Crowns Leaderboard</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption><p>Crowns Leaderboard</p></figcaption></figure>
 
 {% hint style="danger" %}
 When Conquest ends, only your contributions to your current faction will count
