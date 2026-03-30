@@ -5,40 +5,64 @@ icon: sparkles
 
 # Dungetron: Void
 
-![](../../.gitbook/assets/image.png)\
+The Void: a special dungeon that opens up during specific events\
 \
-Special high risk high reward non-character progression type dungeon
+Combat, skills, entry, & rewards are different from standard dungeons and may change each event
 
-### Combat Mechanic
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
+### Combat
 
+The Void has unique rules
 
-### Unique Mechanic
+* Gear & Charms do not work in the Void
+* Consumables may be brought into the Void
+
+<figure><img src="../../.gitbook/assets/image.png" alt="" width="563"><figcaption></figcaption></figure>
+
+### Skills
+
+Use Void Essence dropped in the Void to level your skills
+
+In the void, you can only level up your HP, armor, and the unique skills below:
+
+* Tenacity: chance to recover double Armor by 1%
+* Block: Chance to block by 1%. Reduces damage by half
+* Evasion: Chance for evasion by 0.5%. Reduces damage to 0
+* Luck: Chance to crit by 0.75%. 2x the damage
+* Intuition: Increase chance by 0.5% to 'predict' an enemy move (a red X will appear on the next move that your enemy will not use, if this triggers)
+
+Temporary upgrades for weapon skills may still drop at the end of each battle
+
+{% hint style="warning" %}
+Important: Void Skills & Void essence both reset at the start of each Void event
+{% endhint %}
 
 ### Entry Requirement
 
-<img src="../../.gitbook/assets/Asset_Icon_Energy 1.png" alt="" data-size="line"> 40 energy must be spent to enter the Underhaul dungeon.
+The Void Dungeon typically requires an entry requirement, such as, but not limited to:
 
-type of run: shard
+* gigabit
+* ingame resources
 
-type of run: silver ring
-
-type of run: gold ring
+Entry requirements are subject to change from one event to the next
 
 ### Rewards
 
-By defeating enemies you will earn [abstract-stubs.md](../../abstract-eco/abstract-stubs.md "mention"), scaling amount through the dungeon.
-
-In addition, gacha token rewards are dropped per enemy based on type of run probability
+Rewards may change with each Void Dungeon event\
+\
+There may be a jackpot of gigabit, which portions can be won from for accomplishing certain tasks, such as: a chance of winning a % of the jackpot upon defeating an 'Echo' of another player, or a similar chance upon final boss clear\
+\
+These are subject to change with each event. Follow announcements to see each event's format
 
 ### Daily Limit
 
-4 runs per day (this is subject to change in the future).
+There is currently no daily limit, this may change depending on event structure
 
 ### Flee
 
-You are able to flee the dungeon (end your run without dying) by approaching the ladder once you've defeated an enemy, and before progressing to the next room.
+You are able to flee the dungeon (end your run without dying and keep any unused consumables) by approaching the ladder once you've defeated an enemy, and before progressing to the next room
 
 ### Consumables
 
-You can craft or purchase consumables to take in to the dungeon with you.
+You can craft or purchase consumables to take into the dungeon with you, they will drop upon death
