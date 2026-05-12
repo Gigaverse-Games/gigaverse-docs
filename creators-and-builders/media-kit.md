@@ -20,6 +20,8 @@ icon: photo-film
 
 {% tab title="Transparent Static w/o misc" %}
 <figure><img src="../.gitbook/assets/gigaverse_plain 1.png" alt=""><figcaption></figcaption></figure>
+
+{% file src="../.gitbook/assets/gigaverse_converted 1.svg" %}
 {% endtab %}
 
 {% tab title="GLHF" %}
