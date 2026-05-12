@@ -75,6 +75,7 @@
 ## Creators & Builders
 
 * [Giga Creators Program](creators-and-builders/giga-creators-program.md)
+* [Media Kit](creators-and-builders/media-kit.md)
 * [Skill Issue](creators-and-builders/skill-issue.md)
 
 ## LORE & SPECIAL CHARACTERS
