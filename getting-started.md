@@ -31,7 +31,7 @@ DO NOT send ETH directly to Abstract Global Wallet (AGW) from Ethereum (or any e
 * Receive access & a unique username NFT
 * Play!
 
-<div data-full-width="true"><figure><img src=".gitbook/assets/req1.png" alt=""><figcaption></figcaption></figure></div>
+<div data-full-width="true"><figure><img src=".gitbook/assets/sign up.png" alt=""><figcaption></figcaption></figure></div>
 
 ### Gameplay Loops
 
@@ -44,6 +44,8 @@ Currently, the gameplay consists of the following
 * Gear (Craft Equipment, gain Workbench XP)
 * Pets (Giglings: Hatch/Ride/Cook Fish/Feed Food/Produce Resources)
 * Trading (Gigamarket)
+
+<figure><img src=".gitbook/assets/game.png" alt=""><figcaption></figcaption></figure>
 
 #### Combat
 
