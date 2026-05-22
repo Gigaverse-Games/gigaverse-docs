@@ -37,6 +37,11 @@
 * [Fish Findex](fishing/fish-findex.md)
 * [Fish Stall](fishing/fish-stall.md)
 
+## Gigling Racing
+
+* [Gigling Racing Overview](gigling-racing/gigling-racing-overview.md)
+* [Gigling Egg Hatchery](gigling-racing/gigling-egg-hatchery.md)
+
 ## CRAFTING & STATIONS
 
 * [Crafting Overview](crafting-and-stations/crafting-overview.md)
@@ -45,7 +50,6 @@
 * [Workbench](crafting-and-stations/workbench/README.md)
   * [Gear](crafting-and-stations/workbench/gear.md)
   * [Charms](crafting-and-stations/workbench/charms.md)
-* [Hatchery](crafting-and-stations/hatchery.md)
 * [Gear Station](crafting-and-stations/gear-station.md)
 
 ## Conquest
