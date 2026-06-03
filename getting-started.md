@@ -39,10 +39,12 @@ Currently, the gameplay consists of the following
 
 * Combat (Roguelite Dungeon game modes)
 * Fishing (Progressable Skill with Movement Prediction game mode)
-* Conquest (Team PvP territory capture mode)
+* Pets (Giglings: Hatch/Ride/Cook Fish/Feed Food/Produce Resources)
+* Gigling Racing (Race your Giglings at [http://giglingracing.com/](http://giglingracing.com/))
+* Gigling Breeding (coming soon)
+* Conquest Events (Team PvP territory capture mode)
 * Alchemy (Craft Potions, gain Alchemy XP)
 * Gear (Craft Equipment, gain Workbench XP)
-* Pets (Giglings: Hatch/Ride/Cook Fish/Feed Food/Produce Resources)
 * Trading (Gigamarket)
 
 <figure><img src=".gitbook/assets/game.png" alt=""><figcaption></figcaption></figure>
@@ -55,7 +57,7 @@ Roguelite dungeons where you defeat enemies, climb floors and collect items. Lea
 
 #### Fishing
 
-Go fishing to capture fish, sell them for seaweed and upgrade your skills. Learn more: [Broken link](/broken/pages/a7JnNxUzMWm0gAC3T7Zu "mention")
+Go fishing to capture fish, sell them for seaweed and upgrade your skills. Learn more: [Fishing](https://app.gitbook.com/s/xqDXBs0OB0XkJzPtPE3t/fishing "mention")
 
 <figure><img src=".gitbook/assets/fishing1.png" alt="" width="563"><figcaption><p>Fishing</p></figcaption></figure>
 
@@ -67,7 +69,7 @@ Crafting: Create advanced items in-game to enhance your abilities. Learn more: [
 
 #### Conquest
 
-Battle against other factions to capture territory on the map. Learn more: [Broken link](/broken/pages/IDe0FWS24WMDWYyhszBO "mention")
+Battle against other factions to capture territory on the map. Learn more: [Conquest](https://app.gitbook.com/s/xqDXBs0OB0XkJzPtPE3t/conquest "mention")
 
 <figure><img src=".gitbook/assets/image (74).png" alt="" width="563"><figcaption><p>Conquest</p></figcaption></figure>
 
