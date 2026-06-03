@@ -16,12 +16,6 @@ gigaverse twitter: [https://x.com/playgigaverse](https://x.com/playgigaverse)&#x
 
 OpenSea: [https://opensea.io/collection/gigaverse-roms-abstract](https://opensea.io/collection/gigaverse-roms-abstract)
 
-zkMarket: [https://www.zkmarkets.com/abstract/collections/gigaverse](https://www.zkmarkets.com/abstract/collections/gigaverse)&#x20;
-
-Mintify: [https://abstract.mintify.xyz/abstract/gigaverse-roms](https://abstract.mintify.xyz/abstract/gigaverse-roms)&#x20;
-
-MagicEden: [https://tinyurl.com/gigaverse](https://tinyurl.com/gigaverse)
-
 **GIGAVERSE GIGLINGS:**
 
 OpenSea: [https://opensea.io/collection/gigaverse-giglings](https://opensea.io/collection/gigaverse-giglings)
@@ -29,8 +23,6 @@ OpenSea: [https://opensea.io/collection/gigaverse-giglings](https://opensea.io/c
 **ITEMS:**
 
 OpenSea: [https://opensea.io/collection/gigaverse-items](https://opensea.io/collection/gigaverse-items)
-
-MagicEden: [https://tinyurl.com/gigaverseitem](https://tinyurl.com/gigaverseitem)
 
 **CONTRACTS:**
 
