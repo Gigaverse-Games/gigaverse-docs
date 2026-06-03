@@ -4,13 +4,15 @@ icon: egg
 
 # Gigaverse Giglings
 
-Giglings is the pet collection of Gigaverse.
+Giglings are the pet collection of Gigaverse.
 
 There will be several types of Giglings over time in Gigaverse.&#x20;
 
 Giglings start as Eggs and go through a hatching process before they can be utilized.
 
-Currently, there are two eggs types - Inaugural Egg & ROM Egg and one steed type - Inaugural Steed
+Currently, there are two eggs types - Inaugural Egg & ROM Egg and one steed type - Inaugural Steed\
+\
+Hatched Giglings can be used in [Gigling Racing](https://app.gitbook.com/s/xqDXBs0OB0XkJzPtPE3t/gigling-racing) & in the future will be used for Gigling Breeding
 
 <figure><img src="../.gitbook/assets/steeds.png" alt="" width="563"><figcaption><p>Gigling Eggs and Steeds</p></figcaption></figure>
 
