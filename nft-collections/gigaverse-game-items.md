@@ -26,7 +26,6 @@ It is not known what all items will be used for yet: some hold undisclosed futur
 
 * &#x20;**In-game** [gigamarket.md](../in-game-trading/gigamarket.md "mention") **(recommended for best experience)**
 * [OpenSea](https://opensea.io/collection/gigaverse-items) (Abstract)
-* [MagicEden](https://magiceden.io/collections/abstract/0x50a5eb2b3b289d4cfda0e307609b655175a275b1) (Abstract)
 
 Items in the [Gigamarket](https://glhfers.gitbook.io/gigaverse/in-game-trading/gigamarket) can be traded directly in-game. Abstract ETH in an Abstract Global Wallet can be used to purchase items, and Abstract ETH is also what you will receive directly to your wallet from sales.
 
