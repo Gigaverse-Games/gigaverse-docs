@@ -24,7 +24,7 @@ Currently, there are two types of Chests - Normal & Juice
 
 ### <img src="../.gitbook/assets/juicechest.png" alt="" data-size="line"> Juice Chest
 
-:beverage\_box: Available exclusively for Giga Juice enjoyers. Check out [Broken link](/broken/pages/rNyf8TiTC6ZzUDTiXZSz "mention").
+:beverage\_box: Available exclusively for Giga Juice enjoyers. Check out [Giga Juice](https://app.gitbook.com/s/xqDXBs0OB0XkJzPtPE3t/giga-juice "mention").
 
 :map: Top of the map, on the left side of the Dungetron area across the bridge.
 

@@ -2,6 +2,27 @@
 icon: cassette-tape
 cover: ../.gitbook/assets/rom1.png
 coverY: 0
+layout:
+  width: default
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
 ---
 
 # Gigaverse ROMs
@@ -64,7 +85,7 @@ Note: the output ratio of ROMs may be rebalanced in the future, as they have bee
 
 Link ROMs to increase resource production boost by 60% (both energy and materials).
 
-This is stacked with the 20% production boost by [Broken link](/broken/pages/rNyf8TiTC6ZzUDTiXZSz "mention") resulting in a total of 80% boost.
+This is stacked with the 20% production boost by [Giga Juice](https://app.gitbook.com/s/xqDXBs0OB0XkJzPtPE3t/giga-juice "mention") resulting in a total of 80% boost.
 
 Only 1:1 ROM linking is possible.
 

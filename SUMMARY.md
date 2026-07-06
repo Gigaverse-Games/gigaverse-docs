@@ -40,6 +40,7 @@
 ## Gigling Racing
 
 * [Gigling Racing Overview](gigling-racing/gigling-racing-overview.md)
+* [Gigling Dueling Overview](gigling-racing/gigling-dueling-overview.md)
 * [Gigling Egg Hatchery](gigling-racing/gigling-egg-hatchery.md)
 
 ## CRAFTING & STATIONS

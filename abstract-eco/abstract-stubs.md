@@ -20,7 +20,7 @@ Players can earn Stubs in the following ways
 
 * Trade in items with the Traveling Merchant [hugis-and-munis.md](../hugis-and-munis.md "mention"); two types of trade deals - Weekly & Daily
 * Hold [gigaverse-roms.md](../nft-collections/gigaverse-roms.md "mention")
-* Buy [Broken link](/broken/pages/rNyf8TiTC6ZzUDTiXZSz "mention") to get 4x more stubs per deal when trading Hugis
+* Buy [Giga Juice](https://app.gitbook.com/s/xqDXBs0OB0XkJzPtPE3t/giga-juice "mention") to get 4x more stubs per deal when trading Hugis
 
 {% hint style="warning" %}
 There may be more ways to earn Stubs in the future
