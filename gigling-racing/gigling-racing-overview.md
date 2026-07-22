@@ -98,7 +98,7 @@ Breeding takes one male Gigling and one female. Mechanically, breeding is being 
 
 Females are rare compared to males, and present an opportunity to their owners depending how they choose to use them.
 
-Breeding will go live soon after Gigling Racing does.
+
 
 {% hint style="info" %}
 Gigling Dueling uses a related but separate inheritance system, and is available once a Gigling has raced 40 times. See [Gigling Dueling Overview](gigling-dueling-overview.md).
