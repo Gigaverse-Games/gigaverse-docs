@@ -3,6 +3,12 @@
 * [About Gigaverse](README.md)
 * [Getting Started](getting-started.md)
 
+## The Awakening
+
+* [Overview](the-awakening/overview.md)
+* [FAQ](the-awakening/faq.md)
+* [Item - Seasonal & Ethernal Ledger](the-awakening/item-seasonal-and-ethernal-ledger.md)
+
 ## Abstract Eco
 
 * [Abstract XP](abstract-eco/abstract-xp.md)
